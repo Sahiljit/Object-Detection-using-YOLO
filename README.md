@@ -1,7 +1,7 @@
 
 # Object Detection using YOLO
 
-In this project, Object Detection is performed using YOLO algorithm. Some the challenges faced and YOLO's comparison with R-CNN is discussed in the project report.
+In this project, Object Detection is performed using YOLO algorithm. Some the challenges faced and YOLO's comparison with R-CNN is discussed in the  [project report](https://github.com/sahiljit/Object-Detection-using-YOLO/blob/main/Object%20Detection%20Using%20YOLO%20Project%20Report.pdf)
 
 
 ## Tech Stack
